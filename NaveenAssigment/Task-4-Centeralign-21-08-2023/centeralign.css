@@ -1,0 +1,52 @@
+.sub{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+
+}
+/*Center align using flex*/
+/*.main{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    
+}
+.sub{
+    background-color: bisque;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}*/
+
+/*Center align using grid*/
+/*.main{
+    display: grid;
+    place-items: center;
+}
+.sub{
+    
+    background-color: brown;
+    color: azure;
+    margin-top: 250px;
+}*/
+/*Center align using margin*/
+/*.sub{
+    background-color: blue;
+    color: aliceblue;
+    margin: auto;
+    text-align: center;
+    margin-top: 200px;
+}*/
+/*Center align using postions*/
+/*.sub{
+    position: absolute;
+    background-color: beige;
+    left: 565px;
+    top: 200px;
+}*/
+.sub{
+    background-color: #ffff00;
+    text-align: center;
+    transform: translate(600px, 250px);
+    
+}

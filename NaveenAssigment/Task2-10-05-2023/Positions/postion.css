@@ -1,0 +1,34 @@
+section{
+    border:100px solid black;
+    border-width: thin;
+    height: 652px;
+    width: 1235px;
+    
+}
+div{
+    border: 50px solid black;
+    background-color: aquamarine;
+   
+}
+.static,.fixed,.relative{
+    position: relative;
+    width: 400px;
+    height: 200px;
+    border: 2px solid black;
+}
+.static{
+    left: 2px;
+    top: 2px;
+}
+.relative{
+    top:10px;
+    left:420px;
+}
+.fixed{
+    top: 35px;
+    left: 830px;
+    
+}
+p{
+    padding: 1px 5px 20px 30px;
+}

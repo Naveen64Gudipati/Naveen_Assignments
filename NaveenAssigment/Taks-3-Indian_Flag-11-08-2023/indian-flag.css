@@ -1,0 +1,77 @@
+
+.saffron, .white, .green{
+    position: relative;
+    width: 700px;
+    height: 150px;
+    left: 31521px;
+    top: 30px;
+    
+
+}
+
+.saffron{
+    background-color: #F4C430;
+}
+.white{
+    background-color: #f5f5f5;
+}
+.green{
+    background-color: #008000;
+}
+.chakra{
+    border: 10px solid #000080;
+    position: relative;
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    top: 6px;
+    left:250px;
+}
+.spoks{
+    background-color: #000080;
+    position: absolute;
+    width: 6px;
+    height: 110px;
+    left: 52px;
+
+}
+.spoks:nth-child(1){
+    transform: rotate(15deg);
+}
+.spoks:nth-child(2){
+    transform: rotate(30deg);
+}
+.spoks:nth-child(3){
+    transform: rotate(45deg);
+}
+.spoks:nth-child(4){
+    transform: rotate(60deg);
+}
+.spoks:nth-child(5){
+    transform: rotate(75deg);
+}
+.spoks:nth-child(6){
+    transform: rotate(90deg);
+}
+.spoks:nth-child(7){
+    transform: rotate(105deg);
+}
+.spoks:nth-child(8){
+    transform: rotate(120deg);
+}
+.spoks:nth-child(9){
+    transform: rotate(135deg);
+}
+.spoks:nth-child(10){
+    transform: rotate(145deg);
+}
+.spoks:nth-child(11){
+    transform: rotate(160deg);
+}
+.spoks:nth-child(12){
+    transform: rotate(175deg);
+}
+h1{
+    text-align: center;
+    font-size: xx-large;
+}

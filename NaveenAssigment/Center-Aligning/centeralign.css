@@ -1,0 +1,59 @@
+/*Center align using flex
+.main{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom:10px ;
+    margin-top: 200px
+    
+}
+.sub1{
+    background-color: bisque;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    align-items: center;
+    
+}
+
+Center align using grid
+.grid{
+    display: grid;
+    grid-template-rows: 100%;
+    background-color: brown;
+    color: azure;
+    width: 200px;
+    height: 200px;
+   place-items: center;
+   margin-left: 565px;
+   margin-top: 200px;
+}
+Center align using margin
+.main1{
+    background-color: blue;
+    color: aliceblue;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    text-align: center;
+    margin-top: 200px;
+}
+Center align using postions
+.positions{
+    position: absolute;
+    background-color: beige;
+    width: 200px;
+    height: 200px;
+    left: 565px;
+    top: 200px;
+}*/
+.Transactions{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    transform: translate(500px, 250px);
+    
+}
